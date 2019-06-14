@@ -1,2 +1,2 @@
 # 1010
-Projet Java
+Jeu Tetris-like multi-joueurs en Java. 
